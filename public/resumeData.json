@@ -109,12 +109,17 @@
         "url": "https://crown-project-deploy.herokuapp.com/"
       },
       {
+        "title": "Mama Funk Clones",
+        "category": "Static Site built with NextJS",
+        "image": "mama-funk-clones.png",
+        "url": "https://mama-funk-clones.vercel.app/"
+      },
+      {
         "title": "Ronald McDonald House - West GA Chapter",
-        "category": "Chapter wWebsite for local nonprofit chapter of Ronald McDonald House",
+        "category": "Chapter Website for local nonprofit chapter of Ronald McDonald House",
         "image": "rmhc.png",
         "url": "https://wordpress-341820-1385962.cloudwaysapps.com/"
       }
-      
     ]
   },
   "testimonials": {
