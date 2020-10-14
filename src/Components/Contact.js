@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 const Contact = ({ data }) => {
-   const [url, setUrl] = useState('mailto:test@example.com?subject=subject&body=body');
+   const [url, setUrl] = useState('mailto:prinsmediainc@gmail.com?subject=subject&body=body');
    const [name, setName] = useState('');
    const [subject, setSubject] = useState('');
    const [email, setEmail] = useState('');
@@ -69,7 +69,7 @@ const Contact = ({ data }) => {
 					</fieldset>
 				   </form>
 
-           <div id="message-warning"> Error boy</div>
+           <div id="message-warning"> Error </div>
 				   <div id="message-success">
                   <i className="fa fa-check"></i>Your message was sent, thank you!<br />
 				   </div>
