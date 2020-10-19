@@ -119,6 +119,18 @@
         "category": "Chapter Website for local nonprofit chapter of Ronald McDonald House",
         "image": "rmhc.png",
         "url": "https://wordpress-341820-1385962.cloudwaysapps.com/"
+      },
+      {
+        "title": "InSil3nc3",
+        "category": "Event Coordinator Site for the Greater Columbus Area",
+        "image": "insil3nc3.png",
+        "url": "https://wordpress-341820-1211836.cloudwaysapps.com/"
+      },
+      {
+        "title": "Pine Ridge Elementary PTA",
+        "category": "PTA Announcement site for Pine Ridge Elementary School",
+        "image": "prepta.png",
+        "url": "https://www.prepta.org"
       }
     ]
   },
