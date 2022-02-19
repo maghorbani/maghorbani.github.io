@@ -1,149 +1,217 @@
 {
-  "main": {
-    "name": "Scott Prins",
-    "occupation": "ReactJS Developer && Marketing Freelancer",
-    "description": "FullStack JavaScript Developer",
-    "image": "profile_pic.png",
-    "bio": "My name is Scott, I'm a Full Stack Developer. Currently I'm working with small business and startups, especially in the E-Commerce sector. If your business is in need of a web presence or an online store, feel free to reach out and we can see what kind of value I can bring your business.",
-    "contactmessage": "Get in touch with me to receive further details on how I can help your business reach further.",
-    "email": "prinsmediainc@gmail.com",
-    "phone": "458-209-7735",
-    "address": {
-      "street": "",
-      "city": "Lake Elsinore",
-      "state": "CA",
-      "zip": "92530"
+    "main": {
+        "name": "Mohammad Ali",
+        "occupation": "Electrical and Computer Engineer",
+        "description": "Research Assistant at KNTU, C++ Programmer & Full-Stack Web Developer",
+        "image": "profile_pic.jpg",
+        "bio": "My name is Mohammad Ali Ghorbani (the name may seem Arab while I'm Persian). Currently, I'm finishing my MSc work at KN Toosi University of Technology - Tehran, on Perovskite solar cells, trying to reach optimum performance, changing spin-dip method parameters. I have some experience in the Computer industry as A Software Engineer for the last 5 years mostly in C++/Python programming, boosting up algorithms and Web Developing with JS, PHP, and Python.",
+        "contactmessage": "Get in touch with me to receive further details on how I can help your business reach further.",
+        "email": "maghorbani759@gmail.com",
+        "phone": "+98 (912) 071-4783",
+        "address": {
+            "street": "",
+            "city": "Tehran",
+            "state": "Iran",
+            "zip": ""
+        },
+        "website": "http://maghorbani.github.io",
+        "resumedownload": "/Mohammad-Ali-Ghorbani-Resume_feb-2022.pdf",
+        "social": [
+            {
+                "name": "twitter",
+                "url": "https://www.twitter.com/MA_ghorbani",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/maghorbani/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/mohammadali__ghorbani/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "http://github.com/maghorbani",
+                "className": "fa fa-github"
+            }
+        ]
     },
-    "website": "http://www.richardsprins.me",
-    "resumedownload": "/Richard-Prins-Resume_Aug-2020.pdf",
-    "social": [
-      {
-        "name": "twitter",
-        "url": "https://www.twitter.com/scott_prins",
-        "className": "fa fa-twitter"
-      },
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/richard-prins-jr/",
-        "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/rowdyracerx.710/",
-        "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "http://github.com/RichardSPrins",
-        "className": "fa fa-github"
-      }
-    ]
-  },
-  "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
-    "education": [
-      {
-        "school": "Lambda School, Inc.",
-        "degree": "Full Stack Developer Track",
-        "graduated": "october 2019",
-        "description": "Studied Modern Web Development under a curriculum curated and taught by industry professionals."
-      }
-    ],
-    "work": [
-      {
-        "company": "Stand and Stretch",
-        "title": "Web Engineer",
-        "years": "April 2020 - Present",
-        "description": "Develop and maintain web pages for small business, composing ad strategies and managing retargetinng ads. Maintain web servers and perform scheduled backups of sites and respective databases. Maintain agency-client relations for the duration of a project."
-      },
-      {
-        "company": "Pumpt, LLC.",
-        "title": "Lead Software Engineer",
-        "years": "May 2020 - Present",
-        "description": "Taking on the role of sole developer for a lean startup, I have curated a strategy to overhaul and rebrand a B2B startup, with a custom web application to handle all of their business logic for their users. Acted as tech support for customers as well."
-      }
-    ],
-    "skills": [
-      {
-        "name": "ReactJs",
-        "level": "70%"
-      },
-      {
-        "name": "CSS",
-        "level": "80%"
-      },
-      {
-        "name": "Git",
-        "level": "80%"
-      },
-      {
-        "name": "HTML5",
-        "level": "100%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
-      },
-      {
-        "name": "NodeJs",
-        "level": "75%"
-      },
-      {
-        "name": "Python",
-        "level": "70%"
-      }
-    ]
-  },
-  "portfolio": {
-    "projects": [
-      {
-        "title": "Pumpt, LLC",
-        "category": "Job Matching application for a startup, built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "pumpt-app.png",
-        "url": "https://www.pumpthq.com"
-      },
-      {
-        "title": "CROWN Streetwear",
-        "category": "E-Commerce App built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "Crown-screenshot.png",
-        "url": "https://crown-project-deploy.herokuapp.com/"
-      },
-      {
-        "title": "Mama Funk Clones",
-        "category": "Static Site built with NextJS",
-        "image": "mama-funk-clones.png",
-        "url": "https://mama-funk-clones.vercel.app/"
-      },
-      {
-        "title": "Ronald McDonald House - West GA Chapter",
-        "category": "Chapter Website for local nonprofit chapter of Ronald McDonald House",
-        "image": "rmhc.png",
-        "url": "https://wordpress-341820-1385962.cloudwaysapps.com/"
-      },
-      {
-        "title": "InSil3nc3",
-        "category": "Event Coordinator Site for the Greater Columbus Area",
-        "image": "insil3nc3.png",
-        "url": "https://wordpress-341820-1211836.cloudwaysapps.com/"
-      },
-      {
-        "title": "Pine Ridge Elementary PTA",
-        "category": "PTA Announcement site for Pine Ridge Elementary School",
-        "image": "prepta.png",
-        "url": "https://www.prepta.org"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
-      }
-    ]
-  }
+    "resume": {
+        "skillmessage": "These are some Software/Libraries/Technologies that I have worked with",
+        "education": [
+            {
+                "school": "KN. Toosi University of Technology - Tehran, Iran",
+                "degree": "MSc in ECE",
+                "graduated": "Aug 2022",
+                "thesisType": "thesis",
+                "description": "A novel all spin-dip technique to fabricate a mixed-cation perovskite absorber layer in a high-performance solar cell. ",
+                "links": [],
+                "items": [
+                    "Nano/Micro fabrication lab",
+                    "Simulation with SILVACO TCAD, COMSOL Multiphysics and Siesta Transiesta"
+                ]
+            },
+            {
+                "school": "AmirKabir University of Technology - Tehran, Iran",
+                "degree": "BSc in EE",
+                "graduated": "Sep 2020",
+                "thesisType": "Final Project",
+                "description": "Development of an Electronic system for mass levitation and transmission by acoustic waves.",
+                "links": [
+                    {
+                        "url": "https://github.com/maghorbani/LevController",
+                        "title": "github repository"
+                    }
+                ],
+                "items": [
+                    "Altium Designer, KiCAD",
+                    "C++ Programming",
+                    "Programming for Micro Processors (ARM)",
+                    "Designing multi stage Amplifiers (Electronics Lab)"
+                ]
+            }
+        ],
+        "teaching": [
+            {
+                "course": "TA; MSc Course: Theory and Technology of Semiconductor Devices",
+                "where": "KN. Toosi University of Technology - Tehran, Iran",
+                "date": "Fall 2021",
+                "instructor": "Dr Mostafa Shooshtari",
+                "instructor_url": "https://www.linkedin.com/in/mostafa-shooshtari-04a7a282/",
+                "duties": "lecturing, grading, helping students doing course project.",
+                "links": [
+                    {
+                        "url": "https://github.com/maghorbani/TT-KNTU-Assignments",
+                        "title": "assignments for the course"
+                    }
+                ]
+            },
+            {
+                "course": "Workshop Tutor; BSc Course: Advanced Programming",
+                "where": "AmirKabir University of Technology - Tehran, Iran",
+                "date": "Fall 2020",
+                "instructor": "Dr Amir Jahanshahi",
+                "instructor_url": "https://www.linkedin.com/in/amir-jahanshahi-410545145/",
+                "duties": "lecturing 5 sessions titled \"Full-Stack Web Development with JavaScript\"",
+                "links": [
+                    {
+                        "url": "https://github.com/maghorbani/AUT_AP_1399_backend_workshop",
+                        "title": "bakc-end sessions hands on code"
+                    },
+                    {
+                        "url": "https://github.com/maghorbani/AUT_AP_1399_frontend_workshop",
+                        "title": "fron-end sessions hands on code"
+                    }
+                ]
+            }
+        ],
+        "work": [
+            {
+                "company": "ARKA Tech",
+                "title": "Software Engineer",
+                "years": "Sep 2019 - Sep 2021",
+                "description": "implementing software for image/voice processing, machine vision, developing high performance low-level system applications (Intel CPUs and Nvidia GPUs), developing Enterprise native desktop applications for Windows and Linux",
+                "items": [
+                    "Developing enterprise desktop native apps with C++ Qt5",
+                    "Boosting Speed and Performance for CNN and ML projects",
+                    "Developing low level scripts for Nvidia GPUs (CUDA) and Intel CPUs(IPP,MKL)",
+                    "Implementing image/Voice processing algorithms",
+                    "Developing web applications with Django and express.js and React.js"
+                ]
+            },
+            {
+                "company": "Tpulse",
+                "title": "Back-End Developer",
+                "years": "Oct 2017 - Sep 2019",
+                "description": "",
+                "items": [
+                    "Developing PHP Plugins for Wordpress web applications",
+                    "Participation in database design",
+                    "Participation in front-end development with HTML/CSS, Bootstrap, flex and pure.js",
+                    "Developing CRUD apps with Express.js"
+                ]
+            }
+        ],
+        "skills": [
+            "C/C++",
+            "Python",
+            "SILVACO TCAD",
+            "SIESTA",
+            "COMSOL Multiphysics",
+            "JS(ECMAScript)",
+            "Qt5",
+            "Django",
+            "Tensorflow",
+            "PyTorch",
+            "Yolov5",
+            "Express.js",
+            "React.js",
+            "CUDA",
+            "MATLAB",
+            "KiCAD",
+
+            "STM32-HALL",
+            "Altium Designer",
+            "Wordpress Plugin Development",
+            "MySQL/PostgreSQL/MongoDB",
+            "HTML/CSS",
+            "Bootstrap/Flex",
+            "git"
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Pumpt, LLC",
+                "category": "Job Matching application for a startup, built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+                "image": "pumpt-app.png",
+                "url": "https://www.pumpthq.com"
+            },
+            {
+                "title": "CROWN Streetwear",
+                "category": "E-Commerce App built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+                "image": "Crown-screenshot.png",
+                "url": "https://crown-project-deploy.herokuapp.com/"
+            },
+            {
+                "title": "Mama Funk Clones",
+                "category": "Static Site built with NextJS",
+                "image": "mama-funk-clones.png",
+                "url": "https://mama-funk-clones.vercel.app/"
+            },
+            {
+                "title": "Ronald McDonald House - West GA Chapter",
+                "category": "Chapter Website for local nonprofit chapter of Ronald McDonald House",
+                "image": "rmhc.png",
+                "url": "https://wordpress-341820-1385962.cloudwaysapps.com/"
+            },
+            {
+                "title": "InSil3nc3",
+                "category": "Event Coordinator Site for the Greater Columbus Area",
+                "image": "insil3nc3.png",
+                "url": "https://wordpress-341820-1211836.cloudwaysapps.com/"
+            },
+            {
+                "title": "Pine Ridge Elementary PTA",
+                "category": "PTA Announcement site for Pine Ridge Elementary School",
+                "image": "prepta.png",
+                "url": "https://www.prepta.org"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [
+            {
+                "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+                "user": "Kareem Abdul Jabbar"
+            },
+            {
+                "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+                "user": "Steve Wozniak... impersonator"
+            }
+        ]
+    }
 }
