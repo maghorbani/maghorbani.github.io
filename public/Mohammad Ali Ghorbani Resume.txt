@@ -1,0 +1,97 @@
+Mohammad Ali Ghorbani
+Tehran, Iran
+
+mail : maghorbani759@gmail.com
+	   maghorbani@aut.ac.ir
+
+tel 1: +98 9190397910 (also available on WhatsApp and Telegram)
+tel 2: +98 9120714783
+
+=============== Links =========================
+	http://maghorbani.github.io
+	https://www.linkedin.com/in/maghorbani
+	https://github.com/maghorbani
+	https://twitter.com/MA_ghorbani
+	
+=============== Bio ===========================
+	An Electrical Engineer with an industrial and academic background; Developed an ultrasonic mass levitation system as a BSc project. 5 years of experience as a Software/Hardware Engineer, focused on Signal Processing, Data-driven Software, Image Processing/Machine Vision, Low-Level hardware programming, Parallel Computing Algorithms, and Web/Native-Desktop Application Development. I worked with MATLAB, ADS, Altium Designer, Comsol Multiphysics, SILVACO, Siesta, C/C++ (Qt, Tensorfow, Libtorch, CUDA), Python (Django, TensorFlow, PyTorch), PHP (WordPress), JS (express.js, react.js), and HTML/CSS.
+
+=============== Education =====================
+
+1.	K.N.Toosi University Of Technology
+	MS.c in Electrical Engineering
+	2020-2022
+	GPA: 16.00 / 20.00
+	** quitted
+	
+2.	Amirkabir University Of Technology
+	BS.c in Electrical Engineering
+	2015-2020
+	GPA: 14.50 / 20.00
+
+	Final Project: Development of an Electronic system for mass levitation and transmission by acoustic waves.
+	Link: https://github.com/maghorbani/LevController
+	
+=============== Work Experience ===============
+
+1.	company: Lighton Management Solutions
+	title: Software Engineer 
+			(03/2022 - now)
+	Roles:
+		- Developing plugins for MetaTrader 5
+		- Developing CRUD apps with Express.js
+	
+	keywords:
+		C++, Pythom JavaScript, Flask, Express.js
+	----------------------------------------------------------
+	
+2.  company: IUST Quad-Copter Team
+	title: Embedded Software Engineer
+			(08/2021 - 11/2021)
+	Roles:
+		- Optimizing Machine Vision Algorithms (using C++/Python/YOLOv5/LibTorch)
+		- Developing communication board (based on ESP8266 and STM32 Microcontrollers)
+		- Developing embedded core for quad-copters, targeting Nvidia Jetson nano board (using ROS, C/C++, CUDA, Python)
+		- Making a custom, optimized Linux distro for the embedded hardware.
+		- Developing CI/CD pipelines.
+	
+	keywords:
+		C, C++, Linux, Machine Vision, ROS (Robot Operating System)
+	----------------------------------------------------------
+
+3.  company: ArkaTech
+	title: Software Engineer
+			(09/2019 - 09/2021)
+	Roles:
+		- Implementing C++ versions for AI(ML/CNN) applications for production
+		- Developing client-side, native apps (using C++ Qt5).
+		- Implementing Image/Voice processing algorithms (using C++ and Python).
+		- Developing web applications (using Python/Django, Node.js/Express.js/React.js).
+		- Data Engineering (developing data pipelines, automating data flows for data-driven applications)
+		- Boosting Speed and Performance for some ML-based applications.
+		- Developing low-level programs, targeting Nvidia GPUs (CUDA) and Intel CPUs(IPP, MKL).
+	
+	keywords:
+		C++, Qt5, CUDA, Python, Django, JavaScript, PostgreSQL, MongoDB, 
+		React.js, Express.js, ElasticSearch, TensorFlow, LibTorch
+	----------------------------------------------------------
+
+4.  company: TPulse
+				TPulse was a team of web developers located in the IT Office of the Amirkabir University of Technology 
+				and then moved to the Azarakhsh accelerator.
+	title: Back-end Developer
+			(10/2017 - 09/2019)
+	Roles:
+		- Developing WordPress plugins (using PHP) 
+		- Developing CRUD apps (using node.js/express.js)
+		- Customizing WordPress templates (using HTML/CSS and JavaScript)
+		- Maintaining Linux servers (using Apache2, Nginx, databases)
+	
+	keywords:
+		PHP, WordPress, JavaScript, HTML/CSS, MongoDB, MySQL, Node.js, Express.js
+	
+
+=================== Interests ==================
+
+Decentralized Web (Web3), Blockchain, Security/Safety, Cryptography
+Machine Learning, NLP, Machine Vision
