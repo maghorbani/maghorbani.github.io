@@ -1,32 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.22337fdc.chunk.css",
-    "main.js": "/static/js/main.d2a1a50c.chunk.js",
-    "main.js.map": "/static/js/main.d2a1a50c.chunk.js.map",
+    "main.css": "/static/css/main.e2897350.chunk.css",
+    "main.js": "/static/js/main.6e61b90a.chunk.js",
+    "main.js.map": "/static/js/main.6e61b90a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b584fe3d.js",
     "runtime-main.js.map": "/static/js/runtime-main.b584fe3d.js.map",
-    "static/js/2.335d50eb.chunk.js": "/static/js/2.335d50eb.chunk.js",
-    "static/js/2.335d50eb.chunk.js.map": "/static/js/2.335d50eb.chunk.js.map",
+    "static/js/2.b22793ad.chunk.js": "/static/js/2.b22793ad.chunk.js",
+    "static/js/2.b22793ad.chunk.js.map": "/static/js/2.b22793ad.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2467a3aaec9a4564921647b4ea60459d.js": "/precache-manifest.2467a3aaec9a4564921647b4ea60459d.js",
+    "precache-manifest.d8e1ed7deab6c32fe1c10ac5a5d71486.js": "/precache-manifest.d8e1ed7deab6c32fe1c10ac5a5d71486.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.22337fdc.chunk.css.map": "/static/css/main.22337fdc.chunk.css.map",
-    "static/js/2.335d50eb.chunk.js.LICENSE.txt": "/static/js/2.335d50eb.chunk.js.LICENSE.txt",
-    "static/media/firebase.bfa69c4f.svg": "/static/media/firebase.bfa69c4f.svg",
-    "static/media/material-ui.ba99aecd.svg": "/static/media/material-ui.ba99aecd.svg",
-    "static/media/mongodb.2aa7f7b5.svg": "/static/media/mongodb.2aa7f7b5.svg",
-    "static/media/nextjs.e48e27f9.svg": "/static/media/nextjs.e48e27f9.svg",
-    "static/media/nodejs.94cafb0d.svg": "/static/media/nodejs.94cafb0d.svg",
-    "static/media/react-query.5d1cdce6.svg": "/static/media/react-query.5d1cdce6.svg",
-    "static/media/react-router.d7396d67.svg": "/static/media/react-router.d7396d67.svg",
-    "static/media/react.9a28da9f.svg": "/static/media/react.9a28da9f.svg",
-    "static/media/sass.470548b4.svg": "/static/media/sass.470548b4.svg",
-    "static/media/tailwindcss.3323dd02.svg": "/static/media/tailwindcss.3323dd02.svg"
+    "static/css/main.e2897350.chunk.css.map": "/static/css/main.e2897350.chunk.css.map",
+    "static/js/2.b22793ad.chunk.js.LICENSE.txt": "/static/js/2.b22793ad.chunk.js.LICENSE.txt",
+    "static/media/firebase.722d5e83.svg": "/static/media/firebase.722d5e83.svg",
+    "static/media/material-ui.af9c39bb.svg": "/static/media/material-ui.af9c39bb.svg",
+    "static/media/mongodb.456aeffa.svg": "/static/media/mongodb.456aeffa.svg",
+    "static/media/nextjs.771c9635.svg": "/static/media/nextjs.771c9635.svg",
+    "static/media/nodejs.69a09ead.svg": "/static/media/nodejs.69a09ead.svg",
+    "static/media/react-query.8ec3f655.svg": "/static/media/react-query.8ec3f655.svg",
+    "static/media/react-router.4fbd15d8.svg": "/static/media/react-router.4fbd15d8.svg",
+    "static/media/react.c10c6d6d.svg": "/static/media/react.c10c6d6d.svg",
+    "static/media/sass.d043e527.svg": "/static/media/sass.d043e527.svg",
+    "static/media/tailwindcss.e157450f.svg": "/static/media/tailwindcss.e157450f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b584fe3d.js",
-    "static/js/2.335d50eb.chunk.js",
-    "static/css/main.22337fdc.chunk.css",
-    "static/js/main.d2a1a50c.chunk.js"
+    "static/js/2.b22793ad.chunk.js",
+    "static/css/main.e2897350.chunk.css",
+    "static/js/main.6e61b90a.chunk.js"
   ]
 }
