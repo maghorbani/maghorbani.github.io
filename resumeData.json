@@ -2,9 +2,9 @@
   "main": {
     "name": "Mohammad Ali",
     "occupation": "Electrical and Computer Engineer",
-    "description": "MLOps Engineer, C++ Programmer & Full-Stack Web Developer",
+    "description": "Software/Embedded, MLOps, C++ Programming & Full-Stack Web Developement",
     "image": "profile_pic.jpg",
-    "bio": "My name is Mohammad Ali Ghorbani (the name may seem Arab while I'm Persian). Currently, I'm involved in a Software Engineering position as a C++ developer for merchant systems. I finished my BS.c. in Electrical Engineering at AmirKabir University of Technology, Tehran, (2015-2020); I have some experience in the Computer industry as A Software/Hardware Engineer for the last 5 years mostly Data Engineering, ML/AI Engineering, C++/Python programming, Hardware-Level algorithm implementing, and Web Developing with JS, PHP, and Python.",
+    "bio": "My name is Mohammad Ali Ghorbani. Currently, I'm involved in a Software Engineering position as a C++ developer for merchant systems. I finished my <b>BS.c. in Electrical Engineering at AmirKabir University of Technology</b>, Tehran, (2015-2020); I have some experience in the Computer industry as A Software/Hardware Engineer for the last 5 years mostly <b>ML/AI Engineering, C++/Python programming, Hardware-Level algorithm implementing, and Web Developing (JS, PHP, and Python) </b>.",
     "contactmessage": "Get in touch with me to receive further details on how I can help your business reach further.",
     "email": "maghorbani759@gmail.com",
     "phone": "+98 (912) 071-4783",
@@ -18,20 +18,11 @@
     "resumedownload": "/Mohammad-Ali-Ghorbani-Resume_feb-2022.pdf",
     "social": [
       {
-        "name": "twitter",
-        "url": "https://www.twitter.com/MA_ghorbani",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/maghorbani/",
         "className": "fa fa-linkedin"
       },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/mohammadali__ghorbani/",
-        "className": "fa fa-instagram"
-      },
+
       {
         "name": "github",
         "url": "http://github.com/maghorbani",
@@ -51,7 +42,7 @@
         "links": [
           {
             "url": "https://github.com/maghorbani/LevController",
-            "title": "github repository"
+            "title": "github repository for final project"
           }
         ],
         "items": [
@@ -62,7 +53,7 @@
         ]
       }
     ],
-    "teaching": [
+    "__teaching": [
       {
         "course": "TA; MSc Course: Theory and Technology of Semiconductor Devices",
         "where": "KN. Toosi University of Technology - Tehran, Iran",
@@ -76,7 +67,9 @@
             "title": "assignments for the course"
           }
         ]
-      },
+      }
+    ],
+    "teaching": [
       {
         "course": "Workshop Tutor; BSc Course: Advanced Programming",
         "where": "AmirKabir University of Technology - Tehran, Iran",
@@ -103,11 +96,11 @@
         "years": "Sep 2019 - Sep 2021",
         "description": "implementing software for image/voice processing, machine vision, developing high performance low-level system applications (Intel CPUs and Nvidia GPUs), developing Enterprise native desktop applications for Windows and Linux",
         "items": [
-          "Developing enterprise desktop native apps with C++ Qt5",
-          "Boosting Speed and Performance for CNN and ML projects",
-          "Developing low level scripts for Nvidia GPUs (CUDA) and Intel CPUs(IPP,MKL)",
-          "Implementing image/Voice processing algorithms",
-          "Developing web applications with Django and express.js and React.js"
+          "Developing client-side, native apps (using <b>C++/Qt5</b>).",
+          "Implementing C++ versions for AI(ML/CNN) applications for production",
+          "Developing low level scripts, targetting Nvidia GPUs (<b>CUDA</b>) and Intel CPUs(<b>IPP,MKL</b>)",
+          " Implementing Image/Voice processing algorithms to work in the native apps (using <b>C++/Tensorflow/LibTorch/GSL</b>).",
+          "Developing web applications with <b>Django</b> and <b>express.js</b> and <b>React.js</b>"
         ]
       },
       {
